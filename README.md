@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lee023
-- 👀 This is an account for SWE hw.
+- 👀 This is an account for SWE HW.
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
